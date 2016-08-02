@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Christian, a Product Manager from NYC.\n![christian](https://pbs.twimg.com/profile_images/517077417593016320/0fKWxEk3.jpeg)\n Want to know more about bots or learn about Christian? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Christian](postback:learn_about_christian) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "HELLO": "Hey! I'm Arcabot, a personal bot created by Christian, a Product Manager from NYC.\n[christian](https://pbs.twimg.com/profile_images/517077417593016320/0fKWxEk3.jpeg)\n I'm currently in alpha mode - also known as Christian is still trying to figure out how to build me.",
     "TELL HER": "Test: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
