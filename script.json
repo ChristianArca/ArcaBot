@@ -1,7 +1,7 @@
 {
     "BOT": "Yes, I am a bot.",
     "HELLO": "Hey! I'm Arcabot, a personal bot created by Christian, a Product Manager from NYC.\n![christian](https://pbs.twimg.com/profile_images/517077417593016320/0fKWxEk3.jpeg)\n I'm currently in alpha mode - also known as Christian is still trying to figure out how to build me.",
-    //"TELL HER": "Test: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "TELL HER": "Test: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Are you sure about that?",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Arcabot is back."
